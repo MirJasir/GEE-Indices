@@ -9,7 +9,7 @@
 ---
 
 <h3 align="center">Description</h3>
-<p align="center">Normalized Difference Index analysis of Srinagar using Landsat 9 Surface Reflectance imagery, mapping four key land cover types across the Kashmir Valley. A separate map layout using  ArcGIS Pro was produced for each of the four spectral indices — NDVI, NDBI, NDWI, and NDSI — resulting in a set of thematic maps representing land surface characteristics of the district for the summer season of 2024.
+<p align="center">Normalized Difference Index analysis of Srinagar using Landsat 9 Surface Reflectance imagery, mapping four key land cover types across the Kashmir Valley. A separate map layout using QGIS was produced for each of the four spectral indices — NDVI, NDBI, NDWI, and NDSI — resulting in a set of thematic maps representing land surface characteristics of the district for the summer season of 2024.
 
 <br>
 
